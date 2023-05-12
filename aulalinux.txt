@@ -1,0 +1,25 @@
+atualizar:sudo apt update
+
+tecla de limpa:ctrl+l
+
+instalar atualizaçao:sudo apt upgrade
+
+atualizaçao completa do sistema:sudo apt full-upgrade
+
+atualizaçao da distribuiçao:sudo apt dist-upgrade
+
+lixeira:sudo apt autoremove 
+
+limpeza do sistema operacional:sudo apt autoclean
+
+reiniciar sistema:sudo reboot
+ 
+historico de comando:history
+
+instalar app por comandos:sudo apt install  
+
+completar comando:tab  
+
+copiar e colar: ctrl c   colar ctrl shift v
+
+sair do terminal:crtl D (exit)
